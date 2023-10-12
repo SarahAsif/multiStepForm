@@ -1,0 +1,48 @@
+{
+  "first": [
+    {
+      "id": 1,
+      "address": "pembroke-welsh-corgi",
+      "type_of_home": "Charles"
+    },
+    {
+      "id": 2,
+      "address": "pug",
+      "type_of_home": "cheese"
+    },
+    {
+      "id": 3,
+      "address": "dachshund",
+      "type_of_home": "ralph"
+    }
+  ],
+  "second": [
+    {
+      "id": 1,
+      "RV_Type": "ragdoll",
+      "VIN": "mimi",
+      "year": "",
+      "make": "",
+      "model": "",
+      "length": ""
+    },
+    {
+      "id": 2,
+      "RV_Type": "siamese",
+      "VIN": "mocha",
+      "year": "",
+      "make": "",
+      "model": "",
+      "length": ""
+    },
+    {
+      "id": 3,
+      "RV_Type": "russian-blue",
+      "VIN": "bean",
+      "year": "",
+      "make": "",
+      "model": "",
+      "length": ""
+    }
+  ]
+}
